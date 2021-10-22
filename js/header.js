@@ -15,9 +15,9 @@ const code =
         </div>
         <div style="height: 100%;float: right; align-items: center;" class="flex">
             <ul class="verticalList" style="float: right; list-style-type:none; vertical-align: middle; margin: 0; padding-left: 0; display: flex; flex-direction: row-reverse;">
-                <li class="inMenu verticalLItem" style="float:right; height: inherit; vertical-align: middle; display: flex; align-items: center;">로그인</li>
+                <li class="inMenu verticalLItem" style="float:right; height: inherit; vertical-align: middle; display: flex; align-items: center; font-size: 1.125rem;">로그인</li>
                 <li class="inMenu verticalLItem" style="float:right;">
-                    <select name="language" style="font-size: 1rem">
+                    <select name="language" style=" font-size: 1.125rem;">
                         <option value="">Language</option>
                         <option value="ko">한국어</option>
                         <option value="en">English</option>
