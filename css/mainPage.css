@@ -1,0 +1,50 @@
+
+.verticalList {
+    float: left;
+}
+
+select {
+    color: black;
+}
+
+option {
+    color: black;
+}
+
+li {
+    float: left;
+    margin-left: 1vw;
+    margin-right: 2vw;
+}
+
+
+.bigMemberDiv {
+    width: 20vw; float: left;
+}
+
+.memberDiv {
+    width: 14vw; height: 14vw; background-color: skyblue; border-radius: 30%; margin: 3vw;
+    float: none;
+}
+
+
+#main {
+    float:none;
+}
+
+.memberNameText {
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.memberProfilePicture {
+    width: 60%; height: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.memberDescription {
+    margin-left: 2vw;
+}

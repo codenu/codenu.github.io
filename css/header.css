@@ -1,0 +1,10 @@
+li.headerMenu {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    font-size: 1.125rem;
+}
+
+li.headerMenu:hover {
+    border-bottom: 0.25rem solid white;
+    padding-bottom: 0;
+}

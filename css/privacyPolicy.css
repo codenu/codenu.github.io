@@ -1,0 +1,15 @@
+.title1 {
+    font-size: 1.25rem;
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #808080;
+}
+
+.start {
+    margin-top: 0 !important;
+}
+
+.downLine1px {
+    text-decoration: underline solid 1px white;
+}

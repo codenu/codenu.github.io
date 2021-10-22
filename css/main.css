@@ -1,0 +1,70 @@
+@import url("modules/fonts.css");
+
+* {
+    font-family: 'Roboto', 'SpoqaHanSansNeo', '맑은 고딕', 'Arial';
+    color: white;
+}
+
+.verticalList {
+    float: left;
+}
+
+.verticalLItem {
+    float: left;
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+
+.noMargin {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+select {
+    color: black;
+}
+
+option {
+    color: black;
+}
+
+body {
+    width:100%; margin:0; background-color: #36393F;
+}
+
+#menu {
+    width:80vw; height: 5rem; padding-left:10%; padding-right: 10%; background-color: #202225;
+}
+
+#main {
+    width:80vw; margin-left:10%;
+    float:none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title, .middleTitle, .smallTitle, .ftNanumSquare {
+    font-family: 'Roboto', 'NanumSquare', '맑은 고딕', 'Arial';
+}
+
+.middleTitle {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.smallTitle {
+    font-size: 1.5rem;
+    margin-bottom: 6vh;
+}
+
+hr {
+    background-color: #202225;
+    border: 0;
+    height: 2px;
+}

@@ -1,0 +1,57 @@
+/* 
+TODO ( 해야 할 것들 )
+* 아직 없음 !
+*/
+
+.bigMemberDiv {
+    width: 80vw; 
+    height: 12vw;
+    margin-top: 6vh;
+    margin-bottom: 6vh;
+    float: none;
+}
+
+.memberDiv {
+    width: 12vw; height: 12vw; background-color: skyblue; border-radius: 50%; margin: 0;
+    float: left;
+}
+
+.memberNameText {
+    font-size: 1.5rem;
+}
+
+.memberInfoDiv {
+    margin-left: 2vw;
+    float: left;
+}
+
+.memberProfileDiv {
+    width: 100%; height: 100%; margin-top: 0; margin-left: 0;
+}
+
+.memberProfileImage {
+    width: 100%; height: 100%; border-radius: 50%;
+}
+
+.memberRole {
+    margin-top: 0;
+    float: none;
+    font-weight: bold;
+    margin-bottom: 1vh;
+}
+
+.memberDescription {
+    margin-top: 0;
+    float: none;
+    margin-bottom: 0;
+}
+
+.snsDiv {
+    margin-top: 1.5vh;
+}
+
+.snsLogo {
+    width: 1.5vw;
+    height: 1.5vw;
+    margin-right: 0.75vw;
+}
